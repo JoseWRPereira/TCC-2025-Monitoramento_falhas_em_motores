@@ -29,7 +29,7 @@ O projeto tem como objetivo o desenvolvimento de um sistema de monitoramento de 
 
 - Fornecer alertas em caso de valores anômalos que indiquem possíveis falhas.
 
-## Análise de Dados e Detecção de Necessidade de Manutenção Preventiva:
+## Análise de Dados e Detecção de Necessidade de Manutenção Preditiva:
 
 - Implementar algoritmos para análise dos dados coletados (Business Intelligence – BI).
 

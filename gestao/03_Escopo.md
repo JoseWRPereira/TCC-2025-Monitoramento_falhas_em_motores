@@ -33,7 +33,7 @@ O projeto tem como objetivo o desenvolvimento de um sistema de monitoramento de 
 
 - Implementar algoritmos para análise dos dados coletados (Business Intelligence – BI).
 
-- Detectar tendências que possam indicar desgaste ou falha iminente no motor.
+- Detectar condições de operação normais ou fora do padrão do motor.
 
 - Registrar históricos para facilitar a análise preditiva e a tomada de decisão.
 

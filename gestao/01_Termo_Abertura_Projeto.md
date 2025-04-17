@@ -14,7 +14,7 @@
 
 ---
 ## 1. Objetivo do projeto 
-Desenvolver um dispositivo capaz de capturar, monitorar e analisar dados de vibração e temperatura em um motor elétrico visando o aumento de produtividade do motor
+Desenvolver um dispositivo capaz de capturar, monitorar e analisar dados de vibração e temperatura em um motor elétrico, implementando a possibilidade de manutenção preditiva, reduzindo parada por falha ou quebra do motor.
 
 ## 2. Justificativa do Projeto
 
@@ -49,7 +49,7 @@ Felipe (Autor), Julia (Autor), Laryssa (Autor), José(Orientador) e indústrias 
 
 Outubro de 2025
 
-## 7. Orçamento estimado para a conclusão do projeto
+## 7. Custo
 Aproximadamente R$ 300,00
 
 ## 8. Restrições 

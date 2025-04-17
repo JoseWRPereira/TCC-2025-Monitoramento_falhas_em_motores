@@ -11,7 +11,7 @@
 # Planejamento
 
 3. [Escopo](./03_Escopo.md)
-4. EAP
+4. [EAP](./04_EAP.md)
 5. Cronograma
    1. Definir as Atividades
    2. Sequenciar as Atividades

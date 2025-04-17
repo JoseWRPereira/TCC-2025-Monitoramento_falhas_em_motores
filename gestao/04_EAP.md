@@ -1,1 +1,1 @@
-![EAP](<Purple and Yellow Work Breakdown Structure (1).png>)
+![EAP](<img/EAP.png>)

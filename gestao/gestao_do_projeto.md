@@ -5,13 +5,13 @@
 1. [Termo de Abertura do Projeto - TAP](./01_Termo_Abertura_Projeto.md)    
 
 
-2. [Identificação das Partes Interessadas](./02_Identificação_Partes_Interessada.md)   
+2. [Identificação das Partes Interessadas](./02_Identificação_Partes_Interessadas.md)   
    1. Análise SWOT (Equipe, Instituição)
 
 # Planejamento
 
 3. [Escopo](./03_Escopo.md)
-4. [EAP](04_EAP.md)
+4. [EAP](./04_EAP.md)
 5. Cronograma
    1. Definir as Atividades
    2. Sequenciar as Atividades
